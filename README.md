@@ -3,17 +3,17 @@
 
 Natural Language Processing Using BERT Transformer with Hugging Face Library and pre-trained model and tokenizer.
 
-Total 5 Categories of Sentiment : -
+Total 5 Categories of Sentiment: -
 
-4 : - Extremely Positive
+4: - Extremely Positive
 
-3 : - Positive
+3: - Positive
 
-2 : - Neutral
+2: - Neutral
 
-1 : - Negative
+1: - Negative
 
-0 : - Extremely Negative
+0: - Extremely Negative
 
 
 ## Acknowledgements
@@ -24,12 +24,12 @@ Total 5 Categories of Sentiment : -
 ## Features
 
 - Weights are already uploaded if you do not want to train.
-- Model can be changed for multi language support.
-- Try different optimizer and learning rate for better performance.
-- Suggation: - Dont train too much otherwise it will overfit and eventually give less accuracy on testing set.
+- Model can be changed for multi-language support.
+- Try different optimizers and learning rates for better performance.
+- Suggestion: - Don't train too much otherwise it will overfit and eventually give less accuracy on the testing set.
 
   
 ## 🚀 About Me
-I'm a Machine Learning/Deep Learning Engineer with specialization in NLP and CV.
+I'm a Machine Learning/Deep Learning Engineer with a specialization in NLP and CV.
 
   
